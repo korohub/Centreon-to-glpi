@@ -76,7 +76,7 @@ Configuration >> Générale >> API
 ### Ajout d’un client API 
 
 
-![2021-10-20 21_49_25-Clipboard.jpg](doc/2021-10-20 21_49_25-Clipboard.jpg)
+![2021-10-20 21_49_25-Clipboard.jpg](doc/2021-10-20-21_49_25-Clipboard.jpg)
 
 
 Administration >> Utilisateurs
