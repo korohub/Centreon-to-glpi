@@ -71,7 +71,7 @@ Configuration >> Générale >> API
 
 
 
-![doc/2021-10-20 21_46_19-Clipboard.jpg](:/b89984cb4dfd460a841c7f53477ecca0)
+![doc/2021-10-20 21_46_19-Clipboard.jpg](doc/2021-10-20 21_46_19-Clipboard.jpg)
 
 
 ### Ajout d’un client API 
