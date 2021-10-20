@@ -85,17 +85,17 @@ Administration >> Utilisateurs
 
 
 
-![doc/2021-10-20 21_53_13-Clipboard.jpg](:/35ec51317e4f4df6ab2f7dfc021c5338)
+![2021-10-20 21_53_13-Clipboard.jpg](doc/2021-10-20-21_53_13-Clipboard.jpg)
 
 Ajuster les droits en fonction de vos besoins : Habillitations
 
-![doc/2021-10-20 21_53_48-Clipboard.jpg](:/538f8a3447bb4c259570272621f9f62a)
+![2021-10-20 21_53_48-Clipboard.jpg](doc/2021-10-20-21_53_48-Clipboard.jpg)
 
 L’accès à l’api est régi par les droits sur les profils, un profil n’ayant pas accès a la gestion du matériel, ne pourra utiliser l’api /Computer.
 
 ### Préférences : 
 
-![doc/2021-10-20 21_54_35-Clipboard.jpg](:/75b6c9677fc048648f1867ac075a9806)
+![2021-10-20 21_54_35-Clipboard.jpg](doc/2021-10-20-21_54_35-Clipboard.jpg)
 
 De base à la création du compte, les champs sont vides, il faut cliquer sur Regénerer et sauvegarder.
 
