@@ -70,8 +70,7 @@ Configuration sur https://glpi.xxxxxx.net
 Configuration >> Générale >> API
 
 
-
-![doc/2021-10-20 21_46_19-Clipboard.jpg](doc/2021-10-20 21_46_19-Clipboard.jpg)
+![Kiku](doc/doc/2021-10-20 21_46_19-Clipboard.jpg)
 
 
 ### Ajout d’un client API 
